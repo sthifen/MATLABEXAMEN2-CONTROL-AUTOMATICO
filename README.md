@@ -16,6 +16,22 @@ https://es.overleaf.com/read/rxtrrstbfdrq#8f73d9
 
 tabla que nos pide el profesor
 https://www.overleaf.com/read/dsbbsbwwhhsy#9cd072
+
+
+<img width="564" height="404" alt="image" src="https://github.com/user-attachments/assets/2fc564e7-bc81-4e03-94f5-375abe57109f" />
+
+
+<img width="526" height="176" alt="image" src="https://github.com/user-attachments/assets/e5e33b32-fa52-4378-a09c-fcc18d1c71e9" />
+
+
+
+<img width="464" height="317" alt="image" src="https://github.com/user-attachments/assets/de582900-97bc-493c-86a8-b232bb90a2e3" />
+
+<img width="419" height="86" alt="image" src="https://github.com/user-attachments/assets/14f69e8a-9946-41f4-ba7f-c4b310686187" />
+
+<img width="684" height="257" alt="image" src="https://github.com/user-attachments/assets/f24a99f0-7acb-4cc0-bce2-d796285df617" />
+
+
 Este archivo contiene todo el desarrollo teórico y matemático, incluyendo:
 - Diseño del **controlador base** por asignación de polos  
 - Diseño de un **controlador sin sobreimpulso (amortiguamiento crítico)**  
