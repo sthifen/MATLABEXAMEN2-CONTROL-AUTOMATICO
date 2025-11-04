@@ -12,7 +12,8 @@ El proyecto se desarrolla en **MATLAB/Simulink** y se presenta en formato **IEEE
 El documento principal en LaTeX es:
 
 https://es.overleaf.com/read/rxtrrstbfdrq#8f73d9
-
+tabla que nos pide el profesor
+https://www.overleaf.com/read/dsbbsbwwhhsy#9cd072
 
 Este archivo contiene todo el desarrollo teórico y matemático, incluyendo:
 - Diseño del **controlador base** por asignación de polos  
